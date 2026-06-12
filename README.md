@@ -130,22 +130,26 @@ http://localhost:3000
 ## 📸 Screenshots
 
 ### Home Page
+<img width="1892" height="952" alt="Screenshot 2026-06-12 081247" src="https://github.com/user-attachments/assets/e154d487-1938-4895-bca0-02af110fde53" />
 
 * Destination search
 * Travel planning section
 * AI assistant access
 
 ### Travel Itinerary
+<img width="1897" height="965" alt="Screenshot 2026-06-12 081312" src="https://github.com/user-attachments/assets/bca92b4b-2582-419d-ac27-e16daf92cad7" />
 
 * Day-wise travel plan
 * Budget information
 * Safety recommendations
 
 ### AI Travel Assistant
+<img width="850" height="750" alt="Screenshot 2026-06-12 081611" src="https://github.com/user-attachments/assets/7ba3edd3-2ee5-4937-b4f1-5be70e825ed3" />
 
 * Interactive travel guidance
 * Destination suggestions
 * Adventure recommendations
+<img width="846" height="752" alt="Screenshot 2026-06-12 081634" src="https://github.com/user-attachments/assets/d5db5013-bb42-41ae-9fed-7d97b092e20a" />
 
 ---
 
