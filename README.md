@@ -182,7 +182,6 @@ This project was developed as a mini-project/academic project to demonstrate:
 
 **Varshini M V**
 
-**USN:** 4UB25EC110
 
 Department of Electronics and Communication Engineering
 
